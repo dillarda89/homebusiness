@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+    color: white;
+}
+.header{
+    font-size: 2em;
+    text-align: center;
+    color: red;
+}
+.head-one{
+    font-size: smaller;
+    color: red;
+    text-align: center;
+}
+.paragraph{
+    text-align: center;
+    color:white;
+    background-color: red;
+}
+#product-list{
+    color: greenyellow;
+    text-align: center;
+}
+.container img{
+    width: 200px;
+    height: 200px;
+    margin: center;
+}
+#image-sign{
+    width: 200px;
+    height: 200px;
+    margin: center;
+}
+#image-flag{
+    width: 200px;
+    height: 200px;
+    margin: center;
+}
+#image-cornhole{
+    width: 200px;
+    height: 200px;
+    margin: center; 
+}
+.par{
+    color: blue;
+    margin: 0 40% 0 40%;
+}
+.images-3{
+    margin: 0 40% 0 42.5%;
+
+}
